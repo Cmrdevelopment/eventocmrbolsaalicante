@@ -5,6 +5,7 @@ import Footer from './Footer'
 import Header from './Header'
 import PreciosTalleres from './PreciosTaller'
 import QueEncontraras from './QueEncontraras'
+import Separador from './Separador'
 
 
 const App = () => {
@@ -17,6 +18,7 @@ const App = () => {
      <QueEncontraras/>
      <Enterate/>     
      <ConoceCmrbolsa/>
+     <Separador/>
      <PreciosTalleres/>
      <Footer/>
     </>
