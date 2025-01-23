@@ -23,7 +23,7 @@ const QueEncontraras = () => {
                 </p>
 
                 <p className="text-lg md:text-xl max-w-2xl mb-5">
-                <span className="font-bold">Taller 3er día</span> {'>'} Nos adentraremos en la estructura, profundizaremos en las zonas donde el profesional debe aparecer. Avanzaremos en las claviculares como elemento esencial en la operativa junto con la importancia de los truños y los huevos fritos para conocer ahsta donde llegan los engaños y sus aplicaciones. 
+                <span className="font-bold">Taller 3er día</span> {'>'} Nos adentraremos en la estructura, profundizaremos en las zonas donde el profesional debe aparecer. Avanzaremos en las claviculares como elemento esencial en la operativa junto con la importancia de los truños y los huevos fritos para conocer hasta donde llegan los engaños y sus aplicaciones. 
                 </p>
             </div>            
         </div>            
