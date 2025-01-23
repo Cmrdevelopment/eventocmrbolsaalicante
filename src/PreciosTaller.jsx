@@ -27,7 +27,7 @@ const PreciosTalleres = () => {
             3 días de taller
           </h1>
           <h5 className="text-lg bg-cmrbolsa text-white md:h-9 h-20 p-2 md:pb-9 text-center">
-            Si te apuntas <span className="text-black font-bold">al taller de 3 días</span>, no hace falta que te apuntes a la charla gratuita
+          Participa del  <span className="text-black font-bold">taller de 3 días </span> y vive la operativa en directo
           </h5>
 
           {/* Contenedor flexible para "Ahora" y el precio */}

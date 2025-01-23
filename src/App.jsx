@@ -1,5 +1,6 @@
 import './App.css'
 import ConoceCmrbolsa from './ConoceCmrbolsa'
+import ConoceDuricof from './ConoceDuricof'
 import Enterate from './Enterate'
 import Footer from './Footer'
 import Header from './Header'
@@ -18,6 +19,7 @@ const App = () => {
      <QueEncontraras/>
      <Enterate/>     
      <ConoceCmrbolsa/>
+     <ConoceDuricof/>
      <Separador/>
      <PreciosTalleres/>
      <Footer/>
