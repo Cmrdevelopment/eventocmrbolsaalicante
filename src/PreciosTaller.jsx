@@ -22,7 +22,7 @@ const PreciosTalleres = () => {
       {/* Segunda tabla */}
       <div className="border-2 border-black md:w-1/3 m-5 md:m-0">
         <div>
-          <h1 className="md:text-3xl text-2xl font-bold m-5 text-center">TALLER 3 días, 2, 3 y 4 de ABRIL</h1>
+          <h1 className="md:text-3xl text-2xl font-bold m-5 text-center">TALLER 3 días, 1, 2 y 3 de ABRIL</h1>
           <h1 className="flex justify-center items-center font-semibold text-white bg-cmrbolsa md:text-2xl text-md">
             3 días de taller
           </h1>
@@ -67,7 +67,7 @@ const PreciosTalleres = () => {
             <FaCheck /> Pre-talleres básicos on line
           </h3>
           <h3 className="flex items-center md:gap-2 gap-1">
-            <FaCheck /> 3 días de talleres presencial 2, 3 y 4 de Abril
+            <FaCheck /> 3 días de talleres presencial 1, 2 y 3 de Abril
           </h3>
           <h3 className="flex items-center md:gap-2 gap-1">
             <FaCheck /> Horario aproximado 16:30 a 21:00 horas
@@ -86,7 +86,16 @@ const PreciosTalleres = () => {
             Me apunto
           </button>
         </div>
+        <div className="text-center">
+            <h5 className="mt-2 font-bold w-full max-w-xl mx-auto">
+              🍽️ Cierre Perfecto: Cena Exclusiva del Evento 🍷
+            </h5>
+            <p className="p-2 mb-2">
+              No te pierdas la cena final del evento. <span className="font-semibold">Una oportunidad perfecta para compartir</span>, disfrutar y cerrar con broche de oro. ¡Apúntate y celebra con nosotros! 🥂✨
+            </p>
+        </div>
       </div>
+      
       </div>
 
       <div className="flex flex-col items-center mt-10">
