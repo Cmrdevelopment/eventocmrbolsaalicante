@@ -121,7 +121,7 @@ const Header = () => {
           <p className="text-xl font-extrabold text-center mt-5 sm:text-3xl">
             <span className="text-white">{"\"Gestiona el riesgo, toma decisiones estratégicas y alcanza resultados sostenibles\""}</span>
             <p className="text-white text-xl font-extrabold text-center mt-5 sm:text-3xl">
-            Los días <span className="text-green-500">2, 3 y 4 de Abril</span> del 2025 </p>
+            Los días <span className="text-green-500">1, 2 y 3 de Abril</span> del 2025 </p>
           </p>
         </div>
       </div>
