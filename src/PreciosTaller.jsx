@@ -52,7 +52,7 @@ const PreciosTalleres = () => {
 
           <h5 className="mt-2 font-semibold mb-5 w-full text-center">
             <h5 className="mt-2 font-semibold mb-5 w-full max-w-xl mx-auto text-center">
-              Si te apuntas antes del 20 de Febrero 2025 pagas <span className="text-cmrbolsa text-2xl font-bold">SOLO 295 €</span>
+              Si te apuntas antes del 21 de Marzo 2025 pagas <span className="text-cmrbolsa text-2xl font-bold">SOLO 295 €</span>
             </h5>
             <h5 className="mt-2 font-semibold mb-5 w-full max-w-xl mx-auto text-center">
               A partir del 20 de Febrero el precio aumentará el precio cada semana
